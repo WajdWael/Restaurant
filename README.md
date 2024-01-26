@@ -1,13 +1,21 @@
-## Restaurant-reactApp
+# Restaurant React App
 
-### Check the porject => https://wajdwael.github.io/Restaurant-reactApp/
+![image](https://github.com/WajdWael/Restaurant-reactApp/assets/81550668/451a1ce1-cd2a-426c-9202-7e62c4ebcc70)
+[Demo - Preview website](https://wajdwael.github.io/Restaurant-reactApp/)
 
-#### Tools:
+# Tools ⛏️:
 - React.js
 - JavaScript
 - JSX
+- CSS
 - Git/GitHub
-- Json
+- JSON
 
-#### What did I earn out of this project?
->From this project, transform a Figma file into a real website. My hands were on how to manage my React files, components, and images the best I could, I was able to deal with a lot of images and find a way to ensure faster rendering. I learned what are the advantages of a single-page app/website.
+# Goals 🧠:
+- Transform a Figma file into a functional website.
+- Determine the best way to manage React files, components, and images.
+- Find a solution to deal with a large number of images and ensure faster rendering.
+- Understand the benefits of a single-page app.
+
+---
+
