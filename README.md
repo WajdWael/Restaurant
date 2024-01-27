@@ -38,12 +38,14 @@
 # 💎 2 key points to understand any react directory and solve your confusion about react directories and files. 
 
 1. Directory structure: Collect all the files that belong to a common feature, and focus on component-centric file structure.
-![image](https://github.com/WajdWael/Restaurant-reactApp/assets/81550668/0b1fec7f-3a0e-49ae-a292-af9812a8cb39)
+![image](https://github.com/WajdWael/Restaurant-reactApp/assets/81550668/e04ce858-2b56-404a-b08b-8b06ed180174)
+
 
 --
 
 2. Custom files: you should add all custom components, hooks, pages, and utils together.
-![image](https://github.com/WajdWael/Restaurant-reactApp/assets/81550668/f6958dfd-245d-43a3-93b0-ec3f7f60f1b1)
+![image](https://github.com/WajdWael/Restaurant-reactApp/assets/81550668/146610ea-7a43-49ff-8870-e77b1c9801ba)
+
 
 ---
 
